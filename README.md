@@ -28,7 +28,7 @@ This project explores a **transshipment model** aimed at optimizing the distribu
 │   ├── Linear_Programming_Model.xlsx
 ├── Reports/
 │   ├── Transshipment_and_Risk_Minimization.pdf
-├── README.md
+├── README.md ```
 
 ## 📜 Full Report
 
