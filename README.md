@@ -20,7 +20,7 @@ This project explores a **transshipment model** aimed at optimizing the distribu
 
 ## 📂 Project Structure
 
-
+---
 .
 ├── Data/
 │   ├── Transshipment_Data.xlsx
@@ -29,6 +29,8 @@ This project explores a **transshipment model** aimed at optimizing the distribu
 ├── Reports/
 │   ├── Transshipment_and_Risk_Minimization.pdf
 ├── README.md
+
+---
 
 ## 📜 Full Report
 
