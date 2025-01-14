@@ -16,11 +16,11 @@ This project explores a **transshipment model** aimed at optimizing the distribu
 - **Risk Analysis**:
   - Identified cost-effective risk minimization strategies with detailed sensitivity analysis.
 
----
+
 
 ## 📂 Project Structure
 
-```plaintext
+
 .
 ├── Data/
 │   ├── Transshipment_Data.xlsx
@@ -28,7 +28,7 @@ This project explores a **transshipment model** aimed at optimizing the distribu
 │   ├── Linear_Programming_Model.xlsx
 ├── Reports/
 │   ├── Transshipment_and_Risk_Minimization.pdf
-├── README.md ```
+├── README.md
 
 ## 📜 Full Report
 
@@ -42,7 +42,7 @@ For detailed analysis, including methodology, optimization results, and insights
 Feel free to reach out for feedback, questions, or collaboration opportunities:  
 **LinkedIn**: [Dr. Syed Faizan](https://www.linkedin.com/in/drsyedfaizanmd/)
 
----
+
 
 **Author**: Syed Faizan  
 **Master’s Student in Data Analytics and Machine Learning**
